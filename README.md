@@ -83,6 +83,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [ClauseMatch](https://www.clausematch.com/) – Policy and regulatory lifecycle management.
 - [OpenRegs](https://openregs.com/) – Open regulatory data and analysis platform.
 - [RegData](https://www.mercatus.org/regdata) – Quantitative dataset on regulatory restrictions.
+- [Superhighway](https://superhighway.walls.sh/guides/regulatory-research-agent) – Pay-per-call web search API for building regulatory research agents that produce structured compliance briefs from live web sources.
 - [Compliance.ai](https://www.compliance.ai/) – AI-driven regulatory change management.
 
 ## Procurement & Public Finance
