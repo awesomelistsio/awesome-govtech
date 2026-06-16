@@ -92,6 +92,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Bonfire](https://www.gobonfire.com/) – Public sector procurement management software.
 - [OpenGov Budgeting](https://opengov.com/products/budgeting-planning/) – Budgeting and planning tools for governments.
 - [USASpending](https://www.usaspending.gov/) – U.S. federal spending transparency platform.
+- [Government Contracting Research Agent](https://superhighway.walls.sh/guides/govcon-research-agent) – Python tutorial for an agent that researches federal contract opportunities from live web data (SAM.gov, FPDS, agency spending, NAICS, set-asides) into a structured JSON briefing.
 
 ## Smart Cities & Urban Tech
 
