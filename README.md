@@ -92,6 +92,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Bonfire](https://www.gobonfire.com/) – Public sector procurement management software.
 - [OpenGov Budgeting](https://opengov.com/products/budgeting-planning/) – Budgeting and planning tools for governments.
 - [USASpending](https://www.usaspending.gov/) – U.S. federal spending transparency platform.
+- [BidGovContracts](https://bidgovcontracts.com/tools) – Free tools and a federal and state bid feed to help small businesses find and win government contracts.
 
 ## Smart Cities & Urban Tech
 
