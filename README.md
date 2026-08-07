@@ -68,6 +68,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Open Data Portal](https://opendatawatch.com/) – Resources for open government data initiatives.
 - [Tableau Government](https://www.tableau.com/solutions/government) – BI and analytics for public sector data.
 - [Power BI Government](https://powerbi.microsoft.com/government/) – Secure analytics for government agencies.
+- [Approps](https://approps.ai/) – Live tracker of U.S. federal appropriations bills and a searchable database of 15,000+ congressional earmarks, built from official congressional documents.
 
 ## Civic Engagement & Participation
 
