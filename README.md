@@ -52,6 +52,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Bonterra Case Management](https://www.bonterratech.com/) – Case management for social services and nonprofits.
 - [OpenCRVS](https://opencrvs.org/) – Open-source civil registration and vital statistics system.
 - [ODK](https://getodk.org/) – Data collection platform for field-based government programs.
+- [Perfecture](https://perfecture.fr/) – Free email alerts when French prefecture appointment slots open (ID card, passport, residence permit), across all departments.
 
 ## Identity, Trust & Digital ID
 
